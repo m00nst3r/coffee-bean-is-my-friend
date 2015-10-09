@@ -1,0 +1,23 @@
+{
+  "name": "coffee-been-is-ended",
+  "description": "",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/m00nst3r/coffee-been-is-ended.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/m00nst3r/coffee-been-is-ended/issues"
+  },
+  "homepage": "https://github.com/m00nst3r/coffee-been-is-ended#readme",
+  "dependencies": {
+    "gulp": "^3.9.0",
+    "gulp-twig": "^0.4.0"
+  }
+}
